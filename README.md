@@ -9,7 +9,7 @@
   <li>💻 Experience <strong>leading</strong>, and <strong>working</strong> with develop teams</li>
   <li>🤝 Teamwork and organization with <strong>GIT</strong>, and <strong>GITHUB</strong></li>
   <li>🐬 Relational databases basic usage with <strong>PostgreSQL</strong>, and <strong>MySQL.</strong></li>
-  <li>🧠 Responsibility, fast learning, commitment, teamwork, constantly updated, and soft skills</li>
+  <li>🧠 Responsibility, fast learning, commitment, teamwork, and constantly updated.</li>
 </ul>
 
 <h1>🛠 LANGUAGES, AND TOOLS. </h1>
