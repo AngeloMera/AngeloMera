@@ -1,10 +1,14 @@
 <h1 align="center"> Hello world 🌎, I'm Angelo Mera 👨‍💻. </h1>
 
-<p align="center"> I'm a Frontend developer with university and autodidact knowledge in 🌐web technologies such as HTML5, CSS3, SASS, BOOTSTRAP, MYSQL, and GIT, besides knowing about professional development practices, documenting software, leading development teams, structuring websites with SEO, and responsive design, teamwork and creating comfortable interfaces to users📈.</p>
+<p align="center"> 👨‍💻Frontend developer with university, and self-taught knowledge in 🌐web technologies such as JAVASCRIPT, HTML5, CSS3, SASS, BOOTSTRAP, MYSQL, and GIT. in addtion to know about professional development practices, documenting software, leading teams, structuring websites with SEO, and responsive design, teamwork and creating comfortable interfaces to users📈.
+
+I enjoy studying 📚, and learn new skills related to tecnology sector🤖, and professional growth, therefore, I constantly keep myself updated 💻 about everything allow me to grow like person, and professional.
+</p>
 
 <h1>🧰 SKILLS.</h1>
 <ul list-style="none">
   <li>🌐 Websites Structuration with semantic <strong>HTML5.</strong></li>
+  <li>🤖 Dynamic websites development with <strong>JAVASCRIPT.</strong></li>
   <li>🎨 Knowledge about responsive design with <strong>BOOTSTRAP5, CSS3 (Methodology BEM), and SASS.</strong></li>
   <li>💻 Experience <strong>leading</strong>, and <strong>working</strong> with develop teams</li>
   <li>🤝 Teamwork and organization with <strong>GIT</strong>, and <strong>GITHUB</strong></li>
