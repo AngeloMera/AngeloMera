@@ -1,8 +1,9 @@
 <h1 align="center"> Hello world 🌎, I'm Angelo Mera 👨‍💻. </h1>
 
 <p align="center"> 👨‍💻Frontend developer with university, and self-taught knowledge in 🌐web technologies such as JAVASCRIPT, HTML5, CSS3, SASS, BOOTSTRAP, MYSQL, and GIT. in addtion to know about professional development practices, documenting software, leading teams, structuring websites with SEO, and responsive design, teamwork and creating comfortable interfaces to users📈.
+</p>
 
-I enjoy studying 📚, and learn new skills related to tecnology sector🤖, and professional growth, therefore, I constantly keep myself updated 💻 about everything allow me to grow like person, and professional.
+<p align="center"> I enjoy studying 📚, and learn new skills related to tecnology sector🤖, and professional growth, therefore, I constantly keep myself updated 💻 about everything allow me to grow like person, and professional.
 </p>
 
 <h1>🧰 SKILLS.</h1>
